@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\extras",
+    "\\notebooks",
+    "\\scripts"
   ],
-  "SelectedNode": "\\E:\\Github_Ai_s",
+  "SelectedNode": "\\scripts\\mnist.py",
   "PreviewInSolutionExplorer": false
 }
